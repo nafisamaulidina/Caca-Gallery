@@ -2,7 +2,7 @@
 
 ## Tentang Website
 
-Website ini adalah sebuah galeri gambar sederhana yang terinspirasi oleh desain dari Instagram, Facebook, dan Twitter. Meskipun dengan anggaran terbatas, website ini menyediakan kemampuan untuk memuat galeri gambar sehingga pengguna lain dapat melihat gambar yang Anda posting.
+Website ini didesain sebagai sebuah galeri gambar yang simpel, tetapi terinspirasi oleh tampilan dari Instagram, Facebook, dan Twitter. Meskipun dikembangkan dengan sumber daya terbatas, website ini memungkinkan pengguna untuk berbagi galeri gambar sehingga orang lain dapat menikmati konten visual yang Anda bagikan.
 
 ## Fitur
 
@@ -13,7 +13,6 @@ Fitur yang tersedia saat ini meliputi:
 - Multiuser (Beberapa pengguna)
 - Menambahkan foto
 - Menambahkan album
-- Mengedit profil
 - Menambahkan komentar
 - Mengedit komentar
 - Menghapus komentar
